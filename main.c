@@ -1,5 +1,5 @@
 #include "mo.h"
-stack_t *head = NULL;
+
 
 /**
  * main - entry point
